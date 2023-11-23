@@ -1,1 +1,1 @@
-In this phase we work on the Technology Stack and Project Planning.
+In this phase we worked on the Technology Stack and Project Planning.
